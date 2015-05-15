@@ -1,6 +1,1 @@
-void setup(){
-  
-}
-void loop(){
- print("test"); 
-}
+background(0);
